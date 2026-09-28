@@ -32,7 +32,7 @@ Approved applicants receive `text_gated.csv`, which contains `item_id`, `text` a
 
 ## Annotation categories
 
-Full definitions are documented in `annotation/codebook.pdf`.
+Full definitions are documented in `annotation/annotation_instructions.pdf`.
 
 **Stigma present**
 
