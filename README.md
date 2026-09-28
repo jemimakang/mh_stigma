@@ -22,8 +22,8 @@ Items are identified by `item_id` (`stig_0001`–`stig_0470`), which is consiste
 
 Excerpts come from two sources, given in the `source` column:
 
-- `now` — [N] excerpts from news articles in the News on the Web (NOW) corpus. Text is included in `labels_gold.csv`.
-- `reddit` — [N] excerpts from Reddit posts. Text is available on application (see below).
+- `now` — excerpts from news articles in the News on the Web (NOW) corpus. Text is included in `labels_gold.csv`.
+- `reddit` — excerpts from Reddit posts. Text is available on application (see below).
 
 ## Requesting the Reddit text
 
