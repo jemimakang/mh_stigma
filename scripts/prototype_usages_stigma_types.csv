@@ -1,0 +1,635 @@
+stigma_type,code,definition,scale,present_usage,absent_usage,comment
+Expressed/ Enacted,1,Expression of stigma or description of its enactment by stigmatiser.,"AQ (Helping); 
+ Depression Stigma Scale (DSS) (Griffiths et al. 2004)","I would never employ someone with a mental illness. \\
+ I prefer not to be friendly with Harry because of his mental illness. \\
+ I won’t rent an apartment to someone who has a mental illness. \\
+ I think people with mental illness are a burden on society. \\
+ I would avoid anyone who has mental health problems. \\
+I would not date someone if they had a mental illness. \\
+ I would feel uncomfortable working closely with a colleague who has a mental illness. \\
+ I would hesitate to date someone if I knew they had a mental illness. \\
+ I would not want a person with a mental illness from certain jobs. \\
+ I would keep my distance if I found out a neighbour had a serious mental illness.","I would employ someone with a mental illness if they can do the job. \\
+ I wouldn’t discriminate against someone because of their mental illness. \\
+ I am happy to rent apartments to people who have had mental health problems. \\
+ I don’t see people with mental illness as a burden on society. \\
+ I do not avoid people just because they have a mental illness. \\
+ I would feel comfortable collaborating with a colleague who has a mental illness. \\
+ I would date someone regardless of whether they have a mental illness. \\
+ I would trust a qualified person with a mental illness to care for my children. \\
+ I believe people with mental illness should have equal access to all jobs. \\
+ I would welcome a neighbour with a mental illness like anyone else.",Theory-derived prototypes (no direct scale items)
+Perceived/ Experienced,2,Stigma is perceived or its expression experienced by PWLE.,Depression Stigma Scale (DSS) (Griffiths et al. 2004),"Most people believe that people with depression could snap out of it if they wanted. \\
+ Most people believe that depression is a sign of personal weakness. \\
+ Most people believe that depression is not a medical illness. \\
+ Most people believe that people with depression are dangerous. \\
+ Most people believe that it is best to avoid people with depression so that you don’t become depressed yourself. \\
+ Most people believe that people with depression are unpredictable. \\
+Most people would not tell anyone if they had depression. \\
+ Most people would not employ someone they knew had been depressed. \\
+ Most people would not vote for a politician they knew had been depressed. \\
+ If they had depression, most people would not tell anyone.","Most people believe that people with depression can’t recover just by trying harder. \\
+ Most people believe that depression is a not a sign of weak character. \\
+ Most people believe that depression is a medical illness. \\
+ Very few people think people with depression are dangerous. \\
+ Few people believe they should avoid people with depression so they don’t become depressed themselves. \\
+ Most people believe that people with depression are just like everyone else. \\ 
+ If they had depression, most people would tell someone. \\
+ Most people would employ someone they knew had been depressed. \\
+ Most people would vote for a politician they knew had been depressed. \\
+ If they had depression, most people would feel comfortable telling people.",used items (and elaborated to gt to 10).
+Public,3,"Negative and misinformed stereotyped beliefs, prejudicial emotional responses, discriminatory behaviours.",Theory-derived from CAMI / DSS (no direct items).,"In our society, people with mental illness are often treated as outcasts. \\
+ The general public tends to see people with mental illness as dangerous and unpredictable. \\
+ As a community, we spend too little money on mental health care. \\
+ In this country, people with mental illness are often denied the same rights as others. \\
+ In most neighborhoods, residents oppose having mental health facilities nearby. \\
+ Public discussions about mental illness usually carry a negative tone. \\
+ People with mental illness are frequently blamed for their condition by society. \\
+ Media portrayals often reinforce fear or suspicion toward people with mental illness. \\
+ Society tends to avoid openly talking about mental illness. \\
+ People with mental illness are often viewed as less capable members of society.","In our society, people with mental illness are generally accepted as part of the community. \\
+ The general public increasingly recognises that mental illness is a medical condition, not a character flaw. \\
+ As a community, we are willing to invest tax money in mental health services. \\
+ In this country, the rights of people with mental illness are protected. \\
+ In most neighborhoods, residents are comfortable having mental health services nearby. \\
+ Public discussions about mental illness are becoming more understanding and respectful. \\
+ Society recognises that people with mental illness deserve empathy and support. \\
+ Media portrayals increasingly highlight recovery and resilience. \\
+ Society encourages open conversations about mental health. \\
+ People with mental illness are widely seen as capable and valued members of society.",Public prototypes – theory-derived (no direct scale items).
+Structural,4,"Systems, policies, laws that disempower, discriminate, and limit opportunities for PWLE.","Community Attitudes Toward the Mentally Ill (CAMI);
+ 
+ Internalized Stigma of Mental Illness (ISMI)","Less tax money should be spent on the care and treatment of the mentally ill. \\
+ Increased spending on mental health services is a waste of tax dollars. \\
+ The mentally ill should be denied their individual rights. \\
+ Mental health facilities should be kept out of residential neighborhoods. \\
+ We should prioritise police protection from the mentally ill over their care. \\
+ Employers should be allowed to refuse hiring people with a history of mental illness. \\
+ government housing programs should exclude people with serious mental illness. \\
+ Health insurance should not be required to cover mental health treatment equally with physical health. \\
+ People with severe mental illness should have restricted voting or civic participation rights. \\
+ Public funding for mental health research should be reduced in favor of other priorities.","More tax money should be spent on the care and treatment of the mentally ill. \\
+ Increased spending on mental health services will benefit society. \\
+ The rights of people with mental illness should be strongly protected. \\
+ Mental health facilities should be integrated into residential neighbourhoods. \\
+ We have a responsibility to provide high-quality care for people with mental illness. \\
+ Employers should provide fair hiring opportunities for people with a history of mental illness. \\
+ Government housing programs should include people with serious mental illness. \\
+ Health insurance should cover mental health treatment equally with physical health. \\
+ People with severe mental illness should have full voting and civiv participation rights. \\
+ Public funding for mental health research should be expanded.",Public prototypes – theory-derived (no direct scale items).
+Associative,5,"Stigma is extended to family, carers, supporters, health workers, or others around PWLE.",Theory-derived prototypes.,"I would feel ashamed if a close family member had a mental illness. \\
+ Having a sibling with a mental illness would reflect badly on the whole family. \\
+ I would worry that other people judge me because my partner has a mental illness. \\
+ Parents of people with mental illness are partly to blame for the illness. \\
+ I would avoid socialising with a family whose member has been in a psychiatric hospital. \\
+ I would hesitate to introduce a friend who has a mentally ill relative to others. \\
+ I would be concerned that my reputation would suffer if my child had a mental illness. \\
+ I would feel uncomfortable telling colleagues that someone in my family has a mental illness. \\
+ People are justified in distancing themselves from families affected by mental illness. \\
+ Being closely associated with someone who has a mental illness can damage a person's social status.","I would not feel ashamed if a close family member had a mental illness. \\
+ Having a sibling with a mental illness would not reflect badly on me or my family. \\
+ I don’t judge people because a relative or partner of theirs has a mental illness. \\
+ Parents of people with mental illness are not to blame for the illness. \\
+ I would socialise normally with a family whose member has been in a psychiatric hospital. \\
+ I would comfortable introduce a friend who has a mentally ill relative to others. \\
+ My reputation would not suffer if my child had a mental illness. \\
+ I would feel comfortable telling colleagues that someone in my family has a mental illness. \\
+ There is no justification for distancing oneself from families affected by mental illness. \\
+ Being associated with someone who has a mental illness does not damage a person's social standing.",Public prototypes – theory-derived (no direct scale items).
+Self,6,Internalisation of negative public stereotypes.,"Internalized Stigma of Mental Illness (ISMI); 
+ 
+ Depression Stigma Scale (DSS) (Griffiths et al. 2004)","If I had depression, I would not tell anyone. \\
+ Negative stereotypes about mental illness keep me isolated from the 'normal' world. \\
+ People without mental illness could not possibly understand me. \\
+ People treat me less seriously because I have a mental illness. \\
+ I feel out of place in the world because I have a mental illness. \\
+ I am embarrassed or ashamed that I have a mental illness. \\
+ People with mental illness cannot make important contributions to society. \\
+ I feel inferior to others who don’t have a mental illness. \\
+ People with mental illness cannot live a good, rewarding life. \\
+ I don’t talk about myself much because I don’t want to burden others with my mental illness. \\
+ Negative stereotypes about mental illness keep me isolated from the 'normal' world. \\
+ Being around people who don’t have a mental illness makes me feel out of place or inadequate. \\
+ People often patronize me or treat me like a child just because I have a mental illness. \\
+ I am disappointed in myself for having a mental illness. \\
+ Having a mental illness has spoiled my life. \\
+ People can tell that I have a mental illness by the way I look. \\
+ Because I have a mental illness, I need others to make most decisions for me. \\
+ People without mental illness could not possibly understand me. \\
+ I can’t contribute anything to society because I have a mental illness. \\
+ Living with mental illness has made me a weak person. \\
+ Nobody would be interested in getting close to me because I have a mental illness. \\
+ In general, I am not able to live my life the way I want to because of my mental illness. \\
+ I cannot have a good, fulfilling life, despite my mental illness. \\
+ Others think that I can’t achieve much in life because I have a mental illness. \\
+ Stereotypes about the mentally ill apply to me.","If I had depression, I would not be afraid of telling anyone. \\
+ I would be comfortable telling others that I have depression. \\
+ I feel I belong in the world despite having a mental illness. \\
+ Mentally ill people are not a danger to anyone. \\
+ People treat me the same as everyone else although I have a mental illness. \\
+ I interact freely with people who don’t have a mental illness. \\
+ I am not embarrassed or ashamed that I have a mental illness. \\
+ Mentally ill people should feel free to get married, like everyone else. \\
+ People with mental illness make important contributions to society. \\
+ I feel just as worthy and important as others who don’t have a mental illness. \\
+ I socialize freely and don’t worry about other people seeing me as unusual. \\
+ People with mental illness live good, rewarding lives. \\
+ I disclose my experiences to others so I can connect to them. \\
+ I ignore negative stereotypes about mental illness. \\
+ I feel I belong in society. \\
+ I feel comfortable being with a mentally ill person in public. \\
+ People treat me as their equal. \\
+ My mental health problems do not make me think less of myself. \\
+ Having a mental illness has made my life more interesting, with ups and downs. \\
+ People can’t tell that I have a mental illness by the way I look. \\
+ My mental illness doesn’t stop me making my own decisions. \\
+ I engage fully in social situations and don’t worry about embarrassing my family or friends. \\
+ Most people can understand me even if they haven’t experienced my illness. \\
+ People appreciate me regardless of my mental illness. \\
+ I have a mental illness but I still make many contributions to society. \\
+ Living with mental illness has made me a survivor. \\
+ People are interested in getting close to me for who I am, regardless of any mental illness. \\
+ In general, I can live my life the way I want, irrespective of my mental illness. \\
+ Whether I have a good, fulfilling life has nothing to do with my mental illness. \\
+ People think my mental illness doesn’t stop me achieving a lot in life. \\
+ Stereotypes about the mentally ill aren’t applicable to me.",used items (and elaborated to balance)
+Cognitive (Stereotypes),7,Stereotypes are socially shared and generalised negative beliefs about mental illness and people living with it. They represent the cognitive component of stigma.,CAMI; DSS; ISMI (prototypical stereotype content).,"People with mental illness are dangerous and unpredictable. \\
+ People with mental illness are weak and lack self-discipline. \\
+ The mentally ill are a burden on society. \\
+ People with mental illness cannot make important contributions to society. \\
+ You can usually tell who has a mental illness just by looking at them. \\
+ People with mental illness are unreliable in work or school. \\
+ Most people with mental illness cannot handle responsibility. \\
+ Mental illness is usually the result of poor personal choices. \\
+ People with mental illness exaggerate their problems. \\
+ It is risky to trust someone who has a mental illness.","People with mental illness are no more dangerous than anyone else. \\
+ Having a mental illness does not mean a person is weak or lacks self-discipline. \\
+ People with mental illness can be a valuable asset to society. \\
+ People with mental illness can make important contributions in many fields. \\
+ You cannot tell whether someone has a mental illness just by looking at them. \\
+ People with mental illness can be dependable employees or students. \\
+ People with mental illness are capable of handling responsibility. \\
+ Mental illness is not simply the result of poor personal choices. \\
+ People with mental illness are not exaggerating their difficulties. \\
+ A mental health condition does not make someone untrustworthy.",Theory-derived prototypes (no direct scale items)
+Affective (Prejudicial emotions),8,Prejudicial affective responses are the emotional reactions that arise from stereotypes about mental illness and people living with it. They represent the affective component of stigma. ,Internalized Stigma of Mental Illness (ISMI),"I am embarrassed or ashamed that I have a mental illness. \\
+ I feel out of place in the world because I have a mental illness. \\
+ Being around people who don’t have a mental illness makes me feel out of place or inadequate. \\
+ I often feel inferior because of my diagnosis. \\
+ I worry that others will judge me negatively if they know.\\
+ I feel like I don't fully belong in social situations due to my condition. \\
+ I feel disappointed in myself for having this illness. \\
+ I sometimes feel disgusted with myself because of my mental health struggles. \\
+ I feel like my mental illness makes me less worthy than others. \\
+ I avoid talking about my condition because it makes me feel ashamed.","I feel I belong in the world despite having a mental illness. \\
+ I am comfortable acknowledging my mental health condition. \\
+ My diagnosis does not make me feel inferior to others. \\
+ I can be open about my mental health without shame. \\
+ I feel equl to others regardless of my condition. \\
+ I accept my mental health as one part of who I am. \\
+ I do not feel embarassed discussing my mental health if needed. \\
+ My diagnosis does not reduce my sense of self-worth. \\
+ I feel confident participating in social situations. \\
+ I view my mental health challenges with understanding rather than shame.",used items (and elaborated to gt to 10).
+Behavioral (Discrimination),9,Discriminatory behaviours are the actions that result from stereotypes and prejudicial emotions about mental illness and people living with it. They constitute the behavioural component of stigma.,Internalized Stigma of Mental Illness (ISMI),"I don’t socialize as much as I used to because my mental illness might make me look or behave 'weird.' \\
+ I stay away from social situations in order to protect my family or friends from embarrassment. \\
+ I don’t talk about myself much because I don’t want to burden others with my mental illness. \\
+ I avoid getting close to people who don’t have a mental illness to avoid rejection. \\
+ Nobody would be interested in getting close to me because I have a mental illness. \\
+ I don’t feel comfortable being seen in public with an obviously mentally ill person. \\
+ I cancel plans when I worry people might judge me becuase of my mental health. \\
+ I hide information about my mental health when meeting new people. \\
+ I avoid applying for opportunities because I think my mental illness will be held against me. \\
+ I keep my social circle small so people don't find out about my mental health condition.","I engage fully in social situations and don’t worry about embarrassing my family or friends. \\
+ I enjoy attending social situations with my family or friends. \\
+ I feel comfortable being seen in public with an obviously mentally ill person. \\
+ I speak openly about my experiences without fearing rejection. \\
+ I form friendships regardless of whether others know about my mental health. \\
+ I attend events even if people might know about my mental health history. \\
+ I share personal information when I feel it is relevant or helpful. \\
+ I apply for opportunities without assuming my mental health will disqualify me. \\
+ I maintain social relationships without hiding parts of myself. \\
+ I participate in community activities without fear of stigma.",used items (and elaborated to gt to 10).
+Dangerousness,10,A belief that someone living with mental illness is dangerous. ,"Depression Stigma Scale (DSS) (Griffiths et al. 2004);
+ 
+ Community Attitudes Toward the Mentally Ill (CAMI);
+ 
+ Internalized Stigma of Mental Illness (ISMI)","People with depression are dangerous. \\
+ More emphasis should be placed on protecting the public from the mentally ill. \\
+ The mentally ill are far more of a danger than most people suppose. \\
+ Residents have a lot to fear from people coming into their neighborhood to obtain mental health services. \\
+ Locating mental health services in residential neighborhoods endangers local residents. \\
+ The risks of having mental patients living within residential neighborhoods is too great. \\
+ Mentally ill people tend to be violent. \
+ You can never be too careful around someone with a mental illness. \\
+ People with severe mental illness are unpredictable and threatening. \\
+ Society needs stronger safeguards against people with mental illness.","People with depression rarely harm others. \\
+ Mentally ill people are not a danger to anyone. \\
+ Most people with mental illness are no more violent than the general population. \\
+ Having mental health services in niehgbourhoods does not increase risk. \\
+ People with mental illness deserve the same trust as anyone else. \\
+ Fear of people with mental illness is often exaggerated. \\
+ communities are not made unsafe by the presence of mental health facilities. \\
+ People with mental illness are more likely to be harmed than to harm others. \\
+ Mental illness does not automatically make someone threatening. \\
+ Public safety is not compromised by supporting mental health treatment.",used items (and elaborated to gt to 10).
+Personal responsibility and blame,11,A belief that someone living with mental illness is responsible and/or to blame for their experience. ,"Attribution Questionnaire Items (Corrigan et al. 2003);
+ 
+ Depression Stigma Scale (DSS);
+ 
+ Internalized Stigma of Mental Illness (ISMI)","Harry is to blame for his mental illness. \\
+ Harry could have prevented his mental illness. \\
+ Harry is responsible for having a mental illness. \\
+ People with depression just need to try harder to get better. \\
+ Mental illness is mostly caused by poor life choices. \\
+ If someone rally wanted to recover, they would. \\
+ People with mental illness bring it on themselves. \\
+ Depression happens because people are weak-willed. \\
+ Individuals with mental illness should take full responsibility for their condition. \\
+ Mental illness is usually the result of personal failure.","It is not Harry’s fault that he has mental illness. \\
+ Harry could not have stopped his mental illness developing. \\
+ Harry can’t be held responsible for his mental illness. \\
+ The cause of depression is out of the person’s control. \\
+ Mental illness is influenced by biological and social factors. \\
+ Recovery is not simply a matter of willpower. \\
+ People do not choose to have a mental illness. \\
+ Experiencing depression does not mean someone has failed. \\
+ Support and treatment are more important than blame. \\
+ Mental illness should be understood, not blamed on the individual.",used items (and elaborated to gt to 10).
+Uncontrollable,12,A belief that someone is not in control of their experience of mental illness and the behaviour that may arise from it.  ,"Depression Stigma Scale (DSS) (Griffiths et al. 2004);
+ 
+ Community Attitudes Toward the Mentally Ill (CAMI) - all but first","People with depression are unpredictable. \\
+ There is something about the mentally ill that makes it easy to tell them from normal people. \\
+ It is frightening to think of people with mental problems living in residential neighborhoods. \\
+ People with mental illness cannot control their behaviour. \\
+ Someone with a mental illness might snap at any moment. \\
+ You never know what a mentally ill person will do next. \\
+ Mental illness makes people emotionally unstable. \\
+ People with serious mental illness often lose control of their actions. \\
+ Being aroud someone with a mental illness feels risky because they are erratic. \\
+ Mental illness means a person cannot manage their impulses.","People with depression don’t act unpredictably. \\
+ Most people with mental illness manage their behaviour responsibly. \\
+ Mental illness does not automatically make someone unstable. \\
+ People with mental illness usually have good self-control. \\
+ Having a mental illness does not mean someone will ""snap"". \\
+ You can generally rely on people with mental illness, just like anyone else. \\
+ Mental illness does not prevent someone from regulating their emotions. \\
+ People with mental illness are not inherently erratic. \\
+ A diagnosis does not mean a person lacks impulse control. \\
+ Individuals with mental illness can lead stable, predictable lives.",used items (and elaborated to gt to 10).
+Controllable,13,A belief that someone is in control of their experience of mental illness and the behaviour that may arise from it.  ,Depression Stigma Scale (DSS) (Griffiths et al. 2004),"People with depression could snap out of it if they wanted. \\
+ Mental illness is mostly a matter of willpower. \\
+ If people realy tried, they wouldn't be depressed. \\
+ Depression is just a lack of self-discipline. \\
+ People stay mentally ill because they don't try hard enough. \\
+ Anyone can overcome depression by thinking positively. \\
+ Mental illness is a personal choice. \\
+ With enough effort, mental illness disappears. \\
+ Therapy isn't necessary if someone is strong enough. \\
+ People with depression just need to toughen up.","People with depression can’t recover just by an act of will. \\
+ Mental illness is not simply a matter of trying harder. \\
+ Depression is not caused by laziness or weak character. \\
+ Recovery usually requires support, not just determination. \\
+ Mental illness is not a personal choice. \\
+ Positive thinking alone does not cure depression. \\
+ People cannot simply decide to stop being mentally ill. \\
+ Professional help is often necessary for recovery. \\
+ Mental illness is influenced by many factors beyond willpower. \\
+ Strength of character does not prevent mental illness.",used items (and elaborated to gt to 10).
+Moral or character flaw,14,A belief that a person's mental illness is a reflection of a moral or character flaw. ,"Depression Stigma Scale (DSS) (Griffiths et al. 2004);
+ 
+ Community Attitudes Toward the Mentally Ill (CAMI);
+ 
+ Internalized Stigma of Mental Illness (ISMI)","Depression is a sign of personal weakness. \\
+ One of the main causes of mental illness is a lack of self-discipline and willpower. \\
+ Mental patients need the same kind of control and discipline as a young child. \\
+ The mentally ill should be treated as outcasts of society. \\
+ The mentally ill are a burden on society. \\
+ Living with mental illness has made me a weak person. \\
+ I feel inferior to others who don’t have a mental illness. \\
+ People can tell that I have a mental illness by the way I look. \\
+ Living with mental illness has made me a weak person. \\
+ I am disappointed in myself for having a mental illness. \\
+ Having a mental illness has spoiled my life. \\
+ Stereotypes about the mentally ill apply to me. \\
+ I feel inferior to others who don’t have a mental illness.","My mental health problems make me think less of myself. \\
+ Mental illness is not caused by poor character. \\
+ Having a mental illness does not mean someone lacks self-discipline. \\
+ Mental illness does not reflect a person's moral worth. \\
+ People with mental illness are not inferior to others. \\
+ Experiencing mental illness does not make someone weak. \\
+ Mental illness is a health condition, not a character defect. \\
+ A person's value is not reduced by mental illness. \\
+ People with mental illness deserve the same respect as anyone else. \\
+ Mental illness does not spoil a person's life or identity.",used items (and elaborated to gt to 10).
+Pity/ condescension,15,A belief that someone living with mental illness is inferior or less capable.,Attribution Questionnaire Items (Corrigan et al. 2003),"I feel pity for Harry because of his mental illness. \\
+ I feel sorry for Harry because of his mental illness. \\
+ I am concerned for people like Harry who have a mental illness. \\
+ People with mental illness deserve sympathy more than respect. \\
+ People with mental illness need others to take care of them. \\
+ Peole with mental illness are like children who need guidance. \\
+ I worry that Harry cannot handle life on his own. \\
+ Harry's condition makes him less capable than most people. \\
+ People with mental illness need protection from normal responsibilities. \\
+ I feel uncomfortable treating Harry as an equal because of his illness.","I have compassion for Harry, who has a mental illness. \\
+ I empathize with Harry’s experience of mental illness. \\
+ Harry deserves understanding and respect. \\
+ I see Harry as an equal person regardless of mental illness. \\
+ Mental illness does not reduce a person's dignity. \\
+ I support HArry without assuming he is incapable. \\
+ People with mental illness can live independent, fulfilling lives. \\
+ Concern for somene's wellbeing does not mean seeing them as inferior. \\
+ I treat people with mental illness the same as anyone else. \\
+ Mental illness is a challenge, not a reason to look down on someone.",used items (and elaborated to gt to 10).
+Trivialisation or minimisation,16,"A belief that someone's mental illness is not a real, legitimate, sufficiently severe or impactful condition. ","Depression Stigma Scale (DSS) (Griffiths et al. 2004);
+ 
+ Community Attitudes Toward the Mentally Ill (CAMI) - all but first","Depression is not a real medical illness. \\
+ Mental illness is just an excuse for personal weakness. \\
+ People exaggerate mental health problems for attention. \\
+ Everyone feels sad sometimes; it's not an illness. \\
+ Mental illness is not as serious as people claim. \\
+ Most people with depression are just going through a phase. \\
+ Therapy and treatment are unnecessary for most mental problems. \\
+ Less tax money should be spent on the care and treatment of the mentally ill. \\
+ Increased spending on mental health services is a waste of tax dollars. \\
+ Locating mental health services in a residential area downgrades the neighborhood. \\
+ Public funding for mental health is not a priority compared to other issues.","Depression is a serious medical condition. \\
+ Mental illness is a legitimate health concern. \\
+ Mental disorders deserve professional care and support. \\
+ Depression is more than ordinary sadness. \\
+ Mental illness can significantly affect daily life. \\
+ Seeking treatment for mental illness is important. \\
+ Mental health conditions require understanding and support. \\
+ Investment in mental health services benefits society. \\
+ Public funding for mental health care is necessary. \\
+ Communities should prioritise access to mental health treatment.",used items (and elaborated to gt to 10).
+Immutability,17,A belief that a person cannot recover from their experinece of mental illness. ,Internalized Stigma of Mental Illness (ISMI),"People with mental illness cannot live a good, rewarding life. \\
+ In general, I am not able to live my life the way I want to because of my mental illness. \\
+ I cannot have a good, fulfilling life, despite my mental illness. \\
+ Mnetal illness permanently ruins a person's future. \\
+ Once someone has a mental illness, their life is permanently limited. \\
+ My mental illness defines who I am as a person. \\
+ I will never be able to move beyond my mental illness. \\
+ Mental illness determines the course of a person's entire life. \\
+ Recovery from mental illness is unlikely for most people. \\
+ No matter what I do, my menta illness will always control my life.","Whether I have a good, fulfilling life has nothing to do with my mental illness. \\
+ People with mental illness can live meaningful and rewarding lives. \\
+ Mental illness does not prevent someone from achieving their goals. \\
+ With support and treatment, people can improve their quality of life. \\
+ A mental illness diagnosis does not define a person's future. \\
+ My mental illness is only one part of who I am. \\
+ I can grow and change beyond my mental health challenges. \\
+ Mental illness does not determine a person's identity. \\
+ Recovery or improvement is possible for many people with mental illness. \\
+ People can build fulfilling lives even while managing mental health conditions.",used items (and elaborated to gt to 10).
+Segregation endorsement,18,A belief that people with mental illness should be physically or socially separated from the community. ,"Attribution Questionnaire Items (Corrigan et al. 2003);
+ 
+ Community Attitudes Toward the Mentally Ill (CAMI);
+ 
+ Internalized Stigma of Mental Illness (ISMI)","Harry should be kept away from society. \\
+ People like Harry should be removed from the community. \\
+ Harry should be forced into an institution where he is kept away from others. \\
+ The best way to handle the mentally ill is to keep them behind locked doors. \\
+ The mentally ill should be isolated from the rest of the community. \\
+ As soon as a person shows signs of mental disturbance, they should be hospitalized. \\
+ Mental health facilities should not be located near residential areas. \\
+ People with mental illness should live in separate housing away from others. \\
+ People with mental illness should not participate fully in communty life. \\
+ Society is safer when people with mental illness are kept apart from the general public.","People like Harry should be integrated into the community. \\
+ It’s important to include Harry in society. \\
+ Harry should not be forced to live apart from other people. \\
+ People with mental illnesses should live fulfilling lives, including getting married if they choose to. \\
+ Mental health facilities can exist safely within residential neighborhoods. \\
+ People with mental illness should have the same housing options as anyone else. \\
+ People with mental illness should be able to participate fully in community activities. \\
+ Society benefits when people with mental illness are included rather than excluded. \\
+ Separation should never be the default response to mental illness. \\
+ People with mental illness deserbe the same freedom of movement and relationships as everyone else.",used items (and elaborated to gt to 10).
+Coercion,19,A belief that people with mental illness must be controlled or forced into treatment because they lack insight or self-control.,"Attribution Questionnaire Items (Corrigan et al. 2003);
+ 
+ Community Attitudes Toward the Mentally Ill (CAMI)","If I were in charge of Harry's treatment, I would force him to live in a group home. \\
+ Harry should be forced into an institution where he is kept away from others. \\
+ As soon as a person shows signs of mental disturbance, they should be hospitalized. \\
+ People with serious mental illness should be required to take medication even if they refuse. \\
+ People with mental illness cannot make sound decisions about their own lives. \\
+ Treatment decisions should be made by professionals, not by the patient. \\
+ People with mental illness should not have the final say over where they live. \\
+ Courts should be able to mandate treatment for anyone with a mental illness. \\
+ People with mental illness should be under constat supervision for their own good. \\
+ Families should override the wishes of relatives with mental illness if they disagree with treatment or lifestyle choices.","Harry should be free to choose where he lives. \\
+ Harry’s living arrangements should never be forced on him. \\
+ Harry should be supported to live independently, not compelled to live in a group home. \\
+ Treatment decisions should respect Harry’s autonomy and preferences. \\
+ People with mental illness should have the right to refuse treatment unless they pose immediat eharm. \\
+ Medication choices should be made collaboratively, not imposed. \\
+ Courts shoud avoid mandating treatment except in extreme safety situations. \\
+ People with mental illness are capable of making informed life decisions. \\
+ Support should be offered, not forced. \\
+ Mental health care should empower people rather than control them.",used items (and elaborated to gt to 10).
+Contamination,20,A belief that mental illness is contagious or morally polluting. Association with someone with mental illness may damage one's status or well-being,"Depression Stigma Scale (DSS) (Griffiths et al. 2004);
+ 
+ Community Attitudes Toward the Mentally Ill (CAMI);
+ 
+ Internalized Stigma of Mental Illness (ISMI)","It is best to avoid people with depression so you don’t become depressed yourself. \\
+ It is best to avoid anyone who has mental problems. \\
+ Being around people with serious mental illness can negatively affect your own mental health. \\
+ Mental illness can spread through social circles if you're not careful. \\
+ Close friends of mentally ill people often start to act the same way. \\
+ Children who spend time with mentally ill adults are at risk of becoming mentally ill themselves. \\
+ Associating with someone who has a mental illness can damage your social reputation. \\
+ If a family member has a mental illness, others may see the whoe family as unstable. \\
+ It is safer to keep emotional distance from mentally ill people to protect your own well-being. \\
+ I would not want my partner spending too much time with someone who is mentally ill.","You can’t catch depression from others. \\
+ I feel comfortable being seen in public with an obviously mentally ill person. \\
+ Mental illness is not contagious. \\
+ Being friends with someone who has a mental illness does not harm your own mental health. \\
+ Children are not at risk simply by knowing adults with mental illness. \\
+ Emotional support does not cause mental illness to spread. \\
+ I feel comfortable being seen in public with an obviously mentally ill person. \\
+ A person's reputation is not damaged by associating with someone with a mental illness. \\
+ Families are not tainted because one member has a mental illness. \\
+ Mental health struggles are personal experiences, not transferable conditions.",used items (and elaborated to gt to 10).
+Incompetence,21,A belief that people with mental illness are incapable or unreliable in daily or occupational functioning.,"Community Attitudes Toward the Mentally Ill (CAMI);
+ 
+ Internalized Stigma of Mental Illness (ISMI)","The mentally ill should not be given any responsibility. \\
+ Mental patients should not be encouraged to assume the responsibilities of normal life. \\
+ Women who were once patients in a mental hospital cannot be trusted as babysitters. \\
+ People with mental illness cannot make important contributions to society. \\
+ I can’t contribute anything to society because I have a mental illness. \\
+ Others think I can’t achieve much in life because I have a mental illness. \\
+ Because I have a mental illness, I need others to make most decisions for me. \\
+ I would hesitate to trust someone with a mental illness in a leadership role. \\
+ Because of their condition, people with mental illness need others to make decisions for them. \\
+ People with mental illness are unreliable in the workplace.","The mentally ill should be given responsibility. \\
+ Mental patients should be encouraged to assume the responsibilities of normal life. \\
+ Women who were once patients in a mental hospital can be trusted as babysitters. \\
+ People with mental illness can make important contributions to society. \\
+ I can contribute to society even though I have a mental illness. \\
+ Others think my mental illness doesn't stop me achieving a lot in life. \\
+ Although I have a mental illness, I can make decisions for myself. \\
+ I would feel comfortable trusting someone with a mental illness in a leadership role. \\
+ Because of their condition, people with mental illness do not need others to make decisions for them. \\
+ People with mental illness can be reliable in the workplace.",used items (and elaborated to gt to 10).
+Fear,22,An emotional response of fear in response to people living with mental illness. ,"Attribution Questionnaire Items (Corrigan et al. 2003);
+ 
+ Community Attitudes Toward the Mentally Ill (CAMI);
+ 
+ Internalized Stigma of Mental Illness (ISMI)","I am afraid of Harry. \\
+ Harry is dangerous. \\
+ Harry seems to be unpredictable. \\
+ Residents have a lot to fear from people coming into their neighborhood to obtain mental health services. \\
+ It is frightening to think of people with mental problems living in residential neighborhoods. \\
+ I feel uneasy being alone with Harry because of his mental illness. \\
+ People with mental illness make me feel unsafe in public places. \\
+ I worry that someone with a mental illness might suddenly become violent. \\
+ I would be nervous if a person with a mental illness moved in next door. \\
+ Being around people with serious mental health problems scares me.","Harry can act in unusual ways but he isn’t threatening. \\
+ I do not feel afraid of Harry because of his mental illness. \\
+ Harry is not a danger to other people. \\
+ Harry’s behavior does not make me feel unsafe. \\
+ People with mental illness generally do not threaten public safety. \\
+ I would feel comfortable living next door to someone with a mental illness. \\
+ It is not frightening to think of people with mental health problems living in residential neighborhoods. \\
+ I would not avoid someone solely because they have a mental illness. \\
+ Most people with mental illness are no more unpredictable than anyone else. \\
+ I feel safe interacting with people who have mental health conditions.",used items (and elaborated to gt to 10).
+"Anger, irritability or frustration",23,"An emotional response of anger, irritability, or frustration in response to people living with mental illness.",Attribution Questionnaire Items (Corrigan et al. 2003),"Harry’s mental health problems annoy me.\\
+ I get angry with Harry’s behavior. \\
+ I get very irritated with Harry sometimes. \\
+ I am often outraged by Harry’s behavior. \\
+ Harry’s behavior frequently frustrates me. \\
+ I lose my patience quickly when dealing with Harry. \\
+ I feel irritated when Harry talks about his mental health problems. \\
+ Being around Harry often puts me in a bad mood. \\
+ I feel exasperated trying to understand Harry’s actions. \\
+ I sometimes feel resentment toward Harry because of his behavior.","I accept and tolerate Harry’s behavior although sometimes it is challenging. \\
+ I remain calm when Harry behaves in ways I don’t understand. \\
+ I am patient with Harry even when his behavior is difficult. \\
+ Harry’s mental health problems do not make me angry. \\
+ I try to respond to Harry with understanding rather than frustration. \\
+ I rarely feel irritated by Harry’s behavior. \\
+ I remind myself that Harry’s reactions are part of his condition, and are not personal. \\
+ I can engage with Harry without feeling annoyed. \\
+ I approach Harry’s behavior with empathy instead of anger. \\
+ Even when Harry is challenging, I do not lose my temper.",used items (and elaborated to gt to 10).
+Disgust,24,An emotional response of revulsion or moral contamination toward people with mental illness.,Theory-derived prototypes.,"The actions of a mentally ill person make me feel contempt. \\
+I feel appalled by the actions of a mentally ill person.\\
+I feel disgusted when I see someone acting strangely because of mental illness. \\
+People with severe mental illness are revolting. \\
+Being around someone with a mental illness makes my skin crawl. \\
+I feel dirty or contaminated after contact with someone who has a mental illness. \\
+I feel sick to my stomach when I am around someone with a mental illness. \\
+People with mental illness make me feel physically uncomfortable. \\
+I want to move away when someone with a mental illness comes too close to me. \\
+Seeing someone behave in a mentally ill way makes me feel grossed out. \\
+I feel uneasy touching or shaking hands with someone who has a mental illness. \\
+I sometimes feel nauseated or repelled when interacting with people with severe mental illness.","The actions of a mentally ill person do not make me feel contempt. \\
+I do not feel appalled by the actions of a mentally ill person. \\
+I do not feel disgusted when I see someone acting strangely because of mental illness. 
+People with severe mental illness are not revolting to me. \\
+Being around someone with a mental illness does not make my skin crawl. \\
+I do not feel dirty or contaminated after contact with someone who has a mental illness. \\
+I do not feel sick to my stomach when I am around someone with a mental illness. \\
+People with mental illness do not make me feel physically uncomfortable. \\
+I do not want to move away when someone with a mental illness comes too close to me. \\
+Seeing someone behave in a mentally ill way does not make me feel grossed out. \\
+I do not feel uneasy touching or shaking hands with someone who has a mental illness. \\
+I do not feel nauseated or repelled when interacting with people with severe mental illness.",Theory-derived prototypes. Elaborated to include exemplars of moral disgust.
+Pity,25,A compassionate but patronising emotional response towards people with mental illness. ,Community Attitudes Toward the Mentally Ill (CAMI),"The mentally ill don’t deserve our sympathy. \\
+ People with mental illness are objects of pity rather than equals. \\
+ I feel sorry for people with mental illness because their lives are so limited. \\
+ People with mental illness need our pity more than our respect. \\
+ I look down on people with mental illness because they can’t cope like others. \\
+ People with mental illness are unfortunate and helpless. \\
+ It’s sad to see people with mental illness struggle to live normal lives. \\
+ People with mental illness will never be truly independent. \\
+ I feel pity for people with mental illness rather than admiration. \\
+ People with mental illness are weak and deserving of sympathy, not responsibility.","The mentally ill deserve our sympathy. \\
+ People with mental illness deserve respect, not pity. \\
+ I see people with mental illness as equals, not objects of sympathy. \\
+ People with mental illness are capable of leading meaningful lives. \\
+ Mental illness does not make someone weak or helpless. \\
+ People with mental illness deserve understanding rather than condescension. \\
+ I admire the resilience of people living with mental illness. \\
+ Mental illness does not define a person’s worth or capability. \\
+ People with mental illness should be supported, not pitied. \\
+ I relate to people with mental illness without feeling sorry for them.",used items (and elaborated to gt to 10).
+Ambivalence,26,A mixed or conflicted emotional response involving simultaneous positive and negative feelings toward people with mental illness.,Theory-derived prototypes.,"I feel sorry for people with mental illness, but I also think they bring it on themselves. \\
+ I want to be supportive of people with mental illness, but I still feel uncomfortable around them. \\
+ I know mental illness is a medical condition, yet part of me still sees it as a sign of weakness. \\
+ I think people with mental illness deserve help, but I also think they are a burden. \\
+ Part of me wants to help people with mental illness, but another part wants to avoid them. \\
+ I feel compassion for people with mental illness, yet I also feel irritated by their behavior. \\
+ I believe people with mental illness deserve rights, but I sometimes think they shouldn’t have too much responsibility. \\
+ I respect people with mental illness, but I still feel uneasy trusting them fully. \\
+ I want to treat people with mental illness equally, but I often catch myself judging them. \\
+ I understand mental illness isn’t their fault, yet I still feel frustrated with them.","I see mental illness consistently as a health issue, not a personal failing. \\
+ I both feel sympathy for and fully accept people with mental illness. \\
+ I do not feel torn between blaming and understanding people with mental illness. \\
+ My views about mental illness are clear and not internally conflicted. \\
+ My feelings toward people with mental illness are steady and not conflicted. \\
+ I do not feel pulled between positive and negative reactions toward mental illness. \\
+ I consistently treat people with mental illness with respect and comfort. \\
+ I feel neither fear nor hesitation when interacting with people with mental illness. \\
+ My emotional response to mental illness is clear rather than mixed. \\
+ I do not experience contradictory feelings toward people with mental illness as I see them much like anyone else.",Theory-derived prototypes (no direct scale items)
+Social distancing,27,Behaviour discrimination in terms of desire for or actual limitation of the degree to which someone with mental illness is included in one's life across numerous contexts. ,"Attribution Questionnaire Items (Corrigan et al. 2003);
+ 
+ Depression Stigma Scale (DSS);
+ 
+ Community Attitudes Toward the Mentally Ill (CAMI);
+ 
+ Internalized Stigma of Mental Illness (ISMI);
+ 
+ Social Distance Scale (Bogardus & Link)","I would never employ someone with a mental illness. \\
+ I prefer not to be friendly with Harry. \\
+ I won’t rent an apartment to Harry. \\
+ I would not employ someone if I knew they had been depressed. \\
+ I would not vote for a politician if I knew they had been depressed. \\
+ The best way to handle the mentally ill is to keep them behind locked doors. \\
+ The mentally ill should be isolated from the rest of the community. \\
+ I would not want to live next door to someone who has been mentally ill. \\
+ Everyone has the right to exclude the mentally ill from their neighborhood. \\
+ Anyone with a history of mental problems should be excluded from taking public office. \\
+ A woman would be foolish to marry a man who has suffered from mental illness, even though he seems fully recovered. \\
+ Mental health facilities should be kept out of residential neighborhoods. \\
+ Residents should not accept the location of mental health facilities in their neighborhood. \\
+ Local residents have good reason to resist having mental health services in their neighborhood. \\
+ I don’t feel comfortable being seen in public with an obviously mentally ill person. \\
+ I would be unwilling to marry someone with a mental illness. \\
+ I wouldn’t want my children to marry someone with a mental illness. \\
+ I wouldn’t be friends with someone who has a mental illness. \\
+ I wouldn’t introduce someone with a mental illness to my existing friends. \\
+ I won’t work next to someone who has a mental illness. \\
+ I don’t want to be neighbours with someone who has a mental illness. \\
+ I don’t want to be an acquaintance with someone who has a mental illness. \\
+ I wouldn’t recommend someone with a mental illness to work for my friends. \\
+ I don’t want someone who has a mental illness living in a suburb next to me. \\
+ I don’t feel comfortable being seen in public with an obviously mentally ill person. 
+ I refuse to rent a room in my home to someone who has a mental illness. \\
+ I wouldn’t let someone with a mental illness take care of my children for a couple of hours. \\
+ I wouldn’t like to be colleagues someone who has a mental illness. \\
+ I avoid getting close to people who don’t have a mental illness to avoid rejection. \\
+ I don’t socialize as much as I used to because my mental illness might make me look or behave 'weird.' \\
+ I don’t feel comfortable being seen in public with an obviously mentally ill person. \\
+ People discriminate against me because I have a mental illness. \\
+ I stay away from social situations in order to protect my family or friends from embarrassment. \\
+ People ignore me or take me less seriously just because I have a mental illness.","I would employ someone with a mental illness if they can get the work done with some support. \\
+ I wouldn’t discriminate against someone with a mental illness. \\
+ I would definitely employ someone even if I knew they had been depressed. \\
+ I would vote for a politician even if I knew they had been depressed. \\
+ I feel comfortable being with a mentally ill person in public. \\
+ I disclose my experiences to others so I can connect. \\
+ I would happily marry someone with a mental illness. \\
+ I would be comfortable with my children marrying someone with a mental illness. \\
+ I would be friends with someone who has a mental illness. \\
+ I would gladly introduce someone with a mental illness to my existing friends. \\
+ I would be comfortable working next to someone who has a mental illness. \\
+ I am happy to be neighbours with someone who has a mental illness. \\
+ I would have no problem being an acquaintance of someone who has a mental illness. \\
+ I would recommend someone with a mental illness to work for my friends. \\
+ I ‘m comfortable having someone who has a mental illness living in a suburb next to me. \\
+ I would rent a room in my home to someone who has a mental illness. \\
+ I would be fine with someone with a mental illness taking care of my children for a couple of hours. \\
+ I would be very willing to have someone who has a mental illness as my colleague.","used items; NB reverse coded this from ""stigma examples v2.doc"" Rationale: This behavioural sub-factor contains within it an umbrella of discriminatory behaviours (e.g., not hiring someone due to their MI)."
