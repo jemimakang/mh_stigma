@@ -13,7 +13,6 @@ Dataset on Hugging Face: [jemimakang/mh_stigma](https://huggingface.co/datasets/
 | `data/labels_gold.csv` | 470 | Adjudicated labels and metadata, one row per excerpt. News excerpt text is included; Reddit text is not. |
 | `data/labels_annotators.csv` | 1,201 | Individual annotator labels before adjudication, one row per annotation. |
 | `annotation/` | — | Annotation guidelines. |
-| `scripts/` | — | Baselines and evaluation. |
 | `scripts/prototype_usages_stigma_types.csv` | — | Prototypical exemplars of stigma. |
 
 Items are identified by `item_id` (`stig_0001`–`stig_0470`), which is consistent across all files. 
