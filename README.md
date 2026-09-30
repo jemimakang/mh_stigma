@@ -86,7 +86,7 @@ The categories below are annotated only where stigma is present.
 
 * Social distancing
 
-Language features were collected in the earlier rounds only. "Other" responses appear in the per-annotator file with a free-text description that is not released; during adjudication these were either recoded into a named category or left out, so the gold labels contain no "other" values.
+Language features were collected in the earlier rounds only. "Other" responses appear in the per-annotator file with a free-text description that is not released; during adjudication these were either recoded into a named category or left out, so the gold labels contain no "other" values. Bullying/mocking was a particularly present 'other' category during the annotation process therefore, it was added to the category-level evaluation but is not part of the above taxonomy. 
 
 
 ## Citation
