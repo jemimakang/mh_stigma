@@ -93,7 +93,15 @@ Language features were collected in the earlier rounds only. "Other" responses a
 ## Citation
 
 ```bibtex
-[BIBTEX ENTRY]
+@misc{baes2026automaticevaluationmentalhealth,
+      title={Automatic Evaluation of Mental Health Stigma in Online Communication}, 
+      author={Naomi Baes and Jemima Kang and Nick Haslam and Chris Groot and Alsa Wu and Luc Raszewski and Yulia Otmakhova},
+      year={2026},
+      eprint={2610.02775},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2610.02775}, 
+}
 ```
 
 
